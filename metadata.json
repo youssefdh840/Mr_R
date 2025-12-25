@@ -1,0 +1,7 @@
+{
+  "name": "AI Jozef ®",
+  "description": "An advanced multimedia creative suite powered by Gemini models, featuring high-fidelity image generation, intelligent image editing, AI-powered video animation, and deep reasoning thinking mode.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
